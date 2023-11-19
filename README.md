@@ -1,6 +1,6 @@
 # Shark Attack: A Data Wrangling Project
 
-[image](https://i.ibb.co/L5LzZwK/Captura-de-ecr-2023-11-19-s-21-31-19.png)
+![image](https://i.ibb.co/k24jKXg/Captura-de-ecr-2023-11-19-s-21-31-19.png)
 
 Mini-project made during **Ironhack's Data Analytics Bootcamp** with the goal of showcasing data manipulation and cleaning techniques and also a brief part of **Exploratory Data Analysis**. 
 After receiving a raw and messy .csv file, data wrangling techniques were used to prove if a few hypothesis set in the beggining were true or false, with the help of EDA. Set an hypothetical case study for and Environmental Agency to identify the US State with more shark attacks incidents and procceed with recomendations on how to act.
